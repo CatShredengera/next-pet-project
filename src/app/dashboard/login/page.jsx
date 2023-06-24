@@ -1,12 +1,12 @@
 import React from 'react';
 import styles from './page.module.css';
 
-const Portfolio = () => {
+const Login = () => {
     return (
         <div className={styles.container}>
-            Portfolio
+            Login
         </div>
     );
 };
 
-export default Portfolio;
+export default Login;
